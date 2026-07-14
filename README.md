@@ -1,4 +1,4 @@
-![CI](https://github.com/YOUR-USERNAME/fraud-platform/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/c-chenchen/fraud-platform/actions/workflows/ci.yml/badge.svg)
 
 # fraud-platform
 
